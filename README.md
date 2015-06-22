@@ -1,4 +1,5 @@
-<h3>Breakout board w/  I2C controller PCA9665</h3><br><img width="200" src="top-r1.png"><br><br><b>Features:</b><br>
+<h3>Breakout board w/  I2C controller PCA9665</h3>
+<br><img width="200" src="top-r1.png"><br><a href="https://oshpark.com/profiles/ZigZagJoe">Order PCB here!</a><br><br><b>Features:</b><br>
 400khz I2C bus<br>
 1.8mhz SPI w/ 0-4 SS lines<br>
 0-4 GPIOs<br>
@@ -15,4 +16,4 @@ Onboard 3.3v regulator, 250ma<br>
 <li>addr 47, I2C-SPI bridge SC18IS602</li>
 <li>addr 77, 1ch 12bit ADC MCP3221A</li>
 <li>addr 80, 8kb EEPROM</li>
-</ul>
+</ul><br>
